@@ -1,0 +1,3 @@
+bike is class and different bikes(Hero, pulser, honda) are object
+
+ 
